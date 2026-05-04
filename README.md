@@ -1,17 +1,14 @@
 # 🧮 Taschenrechner
 
-Ein einfacher, funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript.
+Ein einfacher, funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript, welcher einfach in jedem gängigen Webbrowser laufen sollte.
 
 ## 🚀 Live-Demo
 
 Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v-san58.github.io/web-calculator/)
 
+<img width="400" height="225" alt="Taschenrechner Demo 1" src="https://github.com/user-attachments/assets/8dd83af3-094a-4614-9670-2e61f757c0a9" />
 
-<img width="400" height="225" alt="2026-05-04 23-11-27" src="https://github.com/user-attachments/assets/8dd83af3-094a-4614-9670-2e61f757c0a9" />
-
-<img width="400" height="225" alt="2026-05-04 23-11-27 (1)" src="https://github.com/user-attachments/assets/cdafc569-b980-4b5e-834d-171d40fa6c9d" />
-
-
+<img width="400" height="225" alt="Taschenrechner Demo 2" src="https://github.com/user-attachments/assets/cdafc569-b980-4b5e-834d-171d40fa6c9d" />
 
 ## ✨ Features
 
@@ -22,7 +19,7 @@ Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v
   - `CE` = Letzte Eingabe löschen
   - `←` (Backspace) = Einzelne Ziffer löschen
 - **Dezimalzahlen** werden unterstützt
-- **Übersichtliches Layout** mit Tabellenstruktu
+- **Übersichtliches Layout** mit Tabellenstruktur
 
 ## 🛠️ Technologien
 
@@ -36,16 +33,12 @@ Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v
 - `style.css` - Styling und Layout
 - `script.js` - Rechner-Logik
 
-## 🎯 So benutzt du ihn
+## 🧠 Was ich dabei gelernt habe
 
-1. Klicke auf die Zahlen und Operatoren
-2. Drücke = für das Ergebnis
-3. C löscht die Eingabe
+- Wie man Buttons klickbar macht
+- Wie man Werte ausliest und verarbeitet
+- Dass Punkt-vor-Strich nicht ganz trivial ist 😅
 
-## 📱 Responsive
+## 💬 Anmerkung
 
-Funktioniert auf Desktop und mobilen Geräten.
-
----
-
-*Projekt für [hier dein Ziel einfügen, z.B. "eine Übung" oder "mein Portfolio"]*
+Das hier ist ein **Einsteiger-Projekt**. Nichts Perfektes, aber mein erster eigener Code, der im Browser was tut.
