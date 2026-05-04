@@ -4,16 +4,21 @@ Ein einfacher, funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript.
 
 ## 🚀 Live-Demo
 
-Hier auf den Link klicken:[https://v-san58.github.io/web-calculator/](https://v-san58.github.io/web-calculator/)
+Hier auf den Link klicken:![https://v-san58.github.io/web-calculator/](https://v-san58.github.io/web-calculator/)
+
 
 
 
 ## ✨ Features
 
-- Grundrechenarten (+, -, ×, ÷)
-- Löschen-Funktion (C)
-- Dezimalzahlen
-- Benutzerfreundliches Design
+- **Grundrechenarten:** Addition (+), Subtraktion (-), Multiplikation (*), Division (/)
+- **Speicherfunktion:** ANS (letztes Ergebnis speichern und wiederverwenden)
+- **Löschfunktionen:** 
+  - `C` = Alles löschen
+  - `CE` = Letzte Eingabe löschen
+  - `←` (Backspace) = Einzelne Ziffer löschen
+- **Dezimalzahlen** werden unterstützt
+- **Übersichtliches Layout** mit Tabellenstruktu
 
 ## 🛠️ Technologien
 
