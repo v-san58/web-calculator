@@ -6,6 +6,9 @@ Ein einfacher, funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript.
 
 Hier auf den Link klicken:![https://v-san58.github.io/web-calculator/](https://v-san58.github.io/web-calculator/)
 
+<img width="400" height="225" alt="2026-05-04 23-11-27" src="https://github.com/user-attachments/assets/8dd83af3-094a-4614-9670-2e61f757c0a9" />
+
+
 
 
 
