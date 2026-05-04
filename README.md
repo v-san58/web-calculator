@@ -1,6 +1,6 @@
 # 🧮 Taschenrechner
 
-Ein einfacher, funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript, welcher einfach in jedem gängigen Webbrowser laufen sollte.
+Ein funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript, welcher einfach in jedem gängigen Webbrowser laufen sollte.
 
 ## 🚀 Live-Demo
 
@@ -15,11 +15,11 @@ Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v
 - **Grundrechenarten:** Addition (+), Subtraktion (-), Multiplikation (*), Division (/)
 - **Speicherfunktion:** ANS (letztes Ergebnis speichern und wiederverwenden)
 - **Löschfunktionen:** 
-  - `C` = Alles löschen
-  - `CE` = Letzte Eingabe löschen
+  - `C` = Letzte Eingabe löschen
+  - `CE` = Alles löschen
   - `←` (Backspace) = Einzelne Ziffer löschen
 - **Dezimalzahlen** werden unterstützt
-- **Übersichtliches Layout** mit Tabellenstruktur
+- **Übersichtliches Layout** 
 
 ## 🛠️ Technologien
 
@@ -41,4 +41,4 @@ Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v
 
 ## 💬 Anmerkung
 
-Das hier ist ein **Einsteiger-Projekt**. Nichts Perfektes, aber mein erster eigener Code, der im Browser was tut.
+Das hier ist ein **Einsteiger-Projekt**. Nichts Perfektes.
