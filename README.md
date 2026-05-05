@@ -37,7 +37,7 @@ Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v
 
 - Wie man Buttons klickbar macht
 - Wie man Werte ausliest und verarbeitet
-- Dass Punkt-vor-Strich nicht ganz trivial ist 😅
+- Dass Punkt-vor-Strich nicht ganz trivial ist
 
 ## Anmerkung
 
