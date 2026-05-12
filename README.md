@@ -21,11 +21,6 @@ Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v
 - **Dezimalzahlen** werden unterstützt
 - **Übersichtliches Layout** 
 
-## Technologien
-
-- HTML5
-- CSS3
-- JavaScript (Vanilla)
 
 ## Dateien
 
