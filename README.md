@@ -2,7 +2,7 @@
 
 Ein funktionaler Taschenrechner gebaut mit HTML, CSS und JavaScript, welcher einfach in jedem gängigen Webbrowser laufen sollte.
 
-## 🚀 Live-Demo
+## Live-Demo
 
 Hier auf den Link klicken: [https://v-san58.github.io/web-calculator/](https://v-san58.github.io/web-calculator/)
 
